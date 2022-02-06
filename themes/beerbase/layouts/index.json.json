@@ -2,7 +2,7 @@
   {{- range $i, $c := (.Site.GetPage "section" "breweries").Sections -}}
   {{ if $i }},{{ end }}
   {
-    "name": "{{ .Title }}",
+    "url": "{{ .Params.url }}",
     "lat": "{{ .Params.latitude }}",
     "lon": "{{ .Params.longitude }}"
   }
