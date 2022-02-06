@@ -8,6 +8,6 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\Tall and tan and young and lovely\"
+Tall and tan and young and lovely"
 
 Originating in Belgium

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Old Milwaukee. A trusted, high quality beer that continually receives the highest awards and accolades from Beer experts across America. Old Milwaukee has a long history of celebrating \Blue Collar\" sensibility. Simply said
+Old Milwaukee. A trusted, high quality beer that continually receives the highest awards and accolades from Beer experts across America. Old Milwaukee has a long history of celebrating Blue Collar" sensibility. Simply said

@@ -10,9 +10,9 @@ upc: 0
 ---
 HOP HENGE IMPERIAL IPA â€“ The Ultimate in Hop Innovation 
 
-Hop Henge Imperial IPA returns to the Bond Street Series line-up this April in extreme fashion. Staying true to the experimental nature of the series and the â€œnever settleâ€ philosophy of Deschutes, our brewers went back to the drawing board to create an amplified version of last yearâ€™s monument to hops.
+Hop Henge Imperial IPA returns to the Bond Street Series line-up this April in extreme fashion. Staying true to the experimental nature of the series and the â€œnever settleâ€� philosophy of Deschutes, our brewers went back to the drawing board to create an amplified version of last yearâ€™s monument to hops.
 
-Head Brewer Brett Porter says, â€œThis is a truly exciting and groundbreaking beer. We reformulated everything about the hop recipe to give Hop Henge an extraordinary aroma and flavor similar to a fresh hop beer.â€ In addition to the Cascade and Centennial hops, Deschutes Brewery is experimenting with a hop variety so new that it has yet to be named.
+Head Brewer Brett Porter says, â€œThis is a truly exciting and groundbreaking beer. We reformulated everything about the hop recipe to give Hop Henge an extraordinary aroma and flavor similar to a fresh hop beer.â€� In addition to the Cascade and Centennial hops, Deschutes Brewery is experimenting with a hop variety so new that it has yet to be named.
 
 The team here at Bend Public House recommends Hop Henge as the perfect accompaniment for a variety of spicy foods, so be sure to have a bottle handy next time you make a batch of hot wings and go for the five alarm award. The high-octane hoppiness is a wildly refreshing antidote to a wide array of hot foods.
 
@@ -54,11 +54,11 @@ Silver Medal, India Pale Ale Category
 
 Modern Brewery Age, February 12, 2007
 5 out 5 stars 
-Hop Henge started its life as an India Pale Ale, but this year it was bumped up to â€œImperial IPAâ€ status, with a hefty dose of additional hops.
-â€œThis one is lovely,â€ said taster Tom Conti. â€œThey got it just right.â€
-It pours out a deep amber, with an appealing rocky head, and rich hop aroma wafting from the glass. â€œThey sure dosed it with a lot of hops...[thereâ€™s] a lot of hop bitterness in the taste,â€ one taster observed.
+Hop Henge started its life as an India Pale Ale, but this year it was bumped up to â€œImperial IPAâ€� status, with a hefty dose of additional hops.
+â€œThis one is lovely,â€� said taster Tom Conti. â€œThey got it just right.â€�
+It pours out a deep amber, with an appealing rocky head, and rich hop aroma wafting from the glass. â€œThey sure dosed it with a lot of hops...[thereâ€™s] a lot of hop bitterness in the taste,â€� one taster observed.
 In addition to the Imperial-level hopping, Hop Henge also boasts Imperial-level alcohol content, with 8.1% a.b.v.
-This was the top-rated beer during its tasting session, and tasters had to dig deep for new superlatives to describe it. â€œThis is a beautiful beer,â€ concluded taster Gregg Glaser. â€œFull of flavor and hops and malt and hops again.â€
-â€œNot for the timid,â€ said taster Robert Lachman.
+This was the top-rated beer during its tasting session, and tasters had to dig deep for new superlatives to describe it. â€œThis is a beautiful beer,â€� concluded taster Gregg Glaser. â€œFull of flavor and hops and malt and hops again.â€�
+â€œNot for the timid,â€� said taster Robert Lachman.
 
 -http://www.deschutesbrewery.com/BrewPub/OnTap/125352.aspx

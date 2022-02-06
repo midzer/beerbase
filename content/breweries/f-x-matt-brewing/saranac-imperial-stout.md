@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Saranac Imperial Stout is part of our \High Peaks Series
+Saranac Imperial Stout is part of our High Peaks Series

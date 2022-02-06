@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Our namesake IPA is a Northwest classic. Generous additions of Amarillo, Centennial, and Ahtanum hops find their way into the kettle, hop-back, and dry-hop. This judicious use of the \brewers spice\" creates rich and resinous flavors of citrus fruit and pine. The finest organic Canadian pilsner malt and organic German Munich and Caramunich malts then bring balance to your new favorite beer."
+Our namesake IPA is a Northwest classic. Generous additions of Amarillo, Centennial, and Ahtanum hops find their way into the kettle, hop-back, and dry-hop. This judicious use of the brewers spice" creates rich and resinous flavors of citrus fruit and pine. The finest organic Canadian pilsner malt and organic German Munich and Caramunich malts then bring balance to your new favorite beer."

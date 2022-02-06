@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Ugly Pug is a schwarzbier, or black lager. But the real story is its name. Fritz saw his mother-in-lawâ€™s pug, Oscar, lounging in a chair and he (Fritz) shouted, â€œWhat an ugly pug!â€ Everyone laughed. Yourâ€™re right â€“ they were drinking a test batch that night.
+Ugly Pug is a schwarzbier, or black lager. But the real story is its name. Fritz saw his mother-in-lawâ€™s pug, Oscar, lounging in a chair and he (Fritz) shouted, â€œWhat an ugly pug!â€� Everyone laughed. Yourâ€™re right â€“ they were drinking a test batch that night.

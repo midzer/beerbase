@@ -10,7 +10,7 @@ upc: 0
 ---
 SPECIAL COMMEMORATIVE BEER
 
-To commemorate the life of a huge-hearted and long-time friend from the homebrewing community, Midnight Sun Brewing Company brewed a very special beer in honor of David Yanoshek, who was fondly known as â€œYanoâ€. 
+To commemorate the life of a huge-hearted and long-time friend from the homebrewing community, Midnight Sun Brewing Company brewed a very special beer in honor of David Yanoshek, who was fondly known as â€œYanoâ€�. 
 
 This big strong beer celebrates the abundant life of an incredible man with an enormous yet ever engaging laugh. Yano pursued life with a Viking spirit, endless love and boundless energy for family, friends, scoutsâ€¦and beer. 
 

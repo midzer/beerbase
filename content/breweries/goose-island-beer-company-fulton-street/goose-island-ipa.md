@@ -10,4 +10,4 @@ upc: 0
 ---
 From the Goose Island website:
 
-\Our IPA recalls a time when ales shipped from England to India were highly hopped to preserve their distinct taste during the long journey. The result
+Our IPA recalls a time when ales shipped from England to India were highly hopped to preserve their distinct taste during the long journey. The result

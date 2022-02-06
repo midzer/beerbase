@@ -10,4 +10,4 @@ upc: 0
 ---
 From Harpoon's site:
 
-\When first seeing Harpoon Ale in a glass
+When first seeing Harpoon Ale in a glass

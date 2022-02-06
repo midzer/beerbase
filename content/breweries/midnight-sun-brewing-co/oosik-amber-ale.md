@@ -14,7 +14,7 @@ Want to hangâ€”so to speakâ€”for a while? Oosik Amber Ale gives you ha
 
 You can't just have a little Oosik. 
 
-BUY the Oosik \Love is Hard\" tee - men's and women's styles available.
+BUY the Oosik Love is Hard" tee - men's and women's styles available.
 
 Availability:
 AK - draft (year-round)"

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The Aass Genuine Pilsner is a premium \lager\" produced in accordance with the \"Purity law\". The malted barely is a pilsnermalt produced in the Sandinavian countries. We use the very best of hops known under the name as Sazer and Hallertau
+The Aass Genuine Pilsner is a premium lager" produced in accordance with the "Purity law". The malted barely is a pilsnermalt produced in the Sandinavian countries. We use the very best of hops known under the name as Sazer and Hallertau

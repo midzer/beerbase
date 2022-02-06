@@ -12,4 +12,4 @@ country: United States
 phone: 1-717-232-1297
 website: http://www.troegs.com/
 ---
-TrÃ¶egs Brewing Company was established in 1997. Today, the brewery produces nine different beers including Hopback Amber Ale, Troegenator Doublebock, Rugged Trail Ale, TrÃ¶egs Pale Ale, Nugget Nectar (seasonal) Dead Reckoning Porter (seasonal), Sunshine Pils (seasonal), The Mad Elf (seasonal), and distributes its product in Pennsylvania, New Jersey, Maryland, Delaware and Virginia.
+Tröegs Brewing Company was established in 1997. Today, the brewery produces nine different beers including Hopback Amber Ale, Troegenator Doublebock, Rugged Trail Ale, Tröegs Pale Ale, Nugget Nectar (seasonal) Dead Reckoning Porter (seasonal), Sunshine Pils (seasonal), The Mad Elf (seasonal), and distributes its product in Pennsylvania, New Jersey, Maryland, Delaware and Virginia.

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-When the loveable \hopheads\" at Humpy's Great Alaskan Alehouse requested a winter version of alehouse favorite Sockeye Red IPA
+When the loveable hopheads" at Humpy's Great Alaskan Alehouse requested a winter version of alehouse favorite Sockeye Red IPA

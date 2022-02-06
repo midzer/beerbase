@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Brewed with luscious apricots, finished with whole-leaf hops. A \fruit beer for hop heads...\" Ale Street News"
+Brewed with luscious apricots, finished with whole-leaf hops. A fruit beer for hop heads..." Ale Street News"

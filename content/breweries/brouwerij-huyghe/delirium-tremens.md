@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The particular character and the unique taste of \Delirium Tremens\" result from the use of three different kinds of yeast. Its very original packing
+The particular character and the unique taste of Delirium Tremens" result from the use of three different kinds of yeast. Its very original packing

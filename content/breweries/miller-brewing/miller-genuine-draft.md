@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Miller Genuine Draft debuted in 1985 with fresh, smooth flavor that's a result of being cold-filtered four times. As we capitalize on the growing trend towards \mainstream sophistication
+Miller Genuine Draft debuted in 1985 with fresh, smooth flavor that's a result of being cold-filtered four times. As we capitalize on the growing trend towards mainstream sophistication

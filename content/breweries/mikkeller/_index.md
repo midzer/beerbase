@@ -5,7 +5,7 @@ latitude: 61.1473
 longitude: -149.844
 address1: Slien 2, 2. tv
 address2: 
-city: KÃ¸benhavn
+city: København
 state: 
 code: 
 country: Denmark

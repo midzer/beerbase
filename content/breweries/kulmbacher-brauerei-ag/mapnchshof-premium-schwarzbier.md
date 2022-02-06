@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Schwarzbier means \black beer\" in German. It is a medium-bodied
+Schwarzbier means black beer" in German. It is a medium-bodied

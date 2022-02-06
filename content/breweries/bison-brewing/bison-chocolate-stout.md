@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\This richly textured
+This richly textured

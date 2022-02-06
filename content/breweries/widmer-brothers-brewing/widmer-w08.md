@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\Our Brewmasters' Release - The three different red
+Our Brewmasters' Release - The three different red

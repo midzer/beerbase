@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The Malt Advocate described Saint Rogue Red as \An ale with great character and plenty of hops to satisfy. Full aromatic punch of caramel
+The Malt Advocate described Saint Rogue Red as An ale with great character and plenty of hops to satisfy. Full aromatic punch of caramel

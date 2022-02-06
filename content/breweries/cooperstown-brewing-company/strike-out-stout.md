@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\Strike Out\" is brewed with 6 malts including a balanced portion of chocolate and crystal malts. It is also brewed with 5% flaked oats for a velvet-like mouth feel. English pale
+Strike Out" is brewed with 6 malts including a balanced portion of chocolate and crystal malts. It is also brewed with 5% flaked oats for a velvet-like mouth feel. English pale

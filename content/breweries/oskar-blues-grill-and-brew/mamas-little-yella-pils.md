@@ -12,4 +12,4 @@ Mamaâ€™s Little Yella Pils - Our upcoming new canned good is a small-batch 
 
 This tasteful reality Czech is the perfect antidote for the watered-down versions of pilsner clogging Americaâ€™s shelves. And Mamaâ€™s gentle hopping (about 35 IBUs) and low ABV (just 5.3%) mean weâ€™re finally honoring consumer requests for a delicious but less-challenging beer. (Hey, we like a good low-dose session beer, too.) Look for our Gold Metal Winner on US shelves in March.
 
-Sadly, the Feds rejected our â€œTake Two and Call Us in the Morningâ€ line on the can.
+Sadly, the Feds rejected our â€œTake Two and Call Us in the Morningâ€� line on the can.

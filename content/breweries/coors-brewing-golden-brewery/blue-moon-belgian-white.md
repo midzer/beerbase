@@ -10,4 +10,4 @@ upc: 0
 ---
 Blue Moon Belgian White, Belgian-style wheat ale, is a refreshing, medium-bodied, unfiltered Belgian-style wheat ale spiced with fresh coriander and orange peel for a uniquely complex taste and an uncommonly smooth finish.
 
-The name \Belgian White\" is a reference to the cloudy white
+The name Belgian White" is a reference to the cloudy white

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The â€œIRAâ€, as itâ€™s known around here, marries a ruby red color and rich body with the hop flavors of an IPA. Our unique ale yeast strain adds a delicious layer of complexity. One of the first beers we made, and an enduring favorite.
+The â€œIRAâ€�, as itâ€™s known around here, marries a ruby red color and rich body with the hop flavors of an IPA. Our unique ale yeast strain adds a delicious layer of complexity. One of the first beers we made, and an enduring favorite.

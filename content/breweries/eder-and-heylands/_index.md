@@ -3,9 +3,9 @@ title: Eder & Heylands
 url: /eder-and-heylands/
 latitude: 49.9211
 longitude: 9.0715
-address1: Aschaffenburger StraÃŸe 3-5
+address1: Aschaffenburger Straße 3-5
 address2: 
-city: GroÃŸostheim
+city: Großostheim
 state: Bavaria
 code: 63762
 country: Germany

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-From the centuries-old tradition of Belgian Abbey monks comes our \Ãœber Abbey\" Ale. Aromatic and full bodied
+From the centuries-old tradition of Belgian Abbey monks comes our Ãœber Abbey" Ale. Aromatic and full bodied

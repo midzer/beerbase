@@ -5,7 +5,7 @@ latitude: 45.5228
 longitude: -73.5928
 address1: 29 Laurier Ouest
 address2: 
-city: MontrÃ©al
+city: Montréal
 state: Quebec
 code: 
 country: Canada

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Here is our \Wheat Beer with Yeast\"
+Here is our Wheat Beer with Yeast"

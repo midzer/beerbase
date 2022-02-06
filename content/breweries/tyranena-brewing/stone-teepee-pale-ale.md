@@ -10,4 +10,4 @@ upc: 0
 ---
 The legend of Tyranena began 3,000 years ago, with a group of pyramids and effigy mounds constructed in a remote valley formed by a vast, slow-moving glacier.  
 
-Today, these ancient \stone tepees\" lie 60 feet below the surface of Rock Lake in Jefferson County
+Today, these ancient stone tepees" lie 60 feet below the surface of Rock Lake in Jefferson County

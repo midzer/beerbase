@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-An imperial bitter style using exotic traditional floor malts, citrus hoppy flavor, stupendous hop aroma. Hedonistic!\Mellow Beer Emboldened by Hops
+An imperial bitter style using exotic traditional floor malts, citrus hoppy flavor, stupendous hop aroma. Hedonistic!Mellow Beer Emboldened by Hops

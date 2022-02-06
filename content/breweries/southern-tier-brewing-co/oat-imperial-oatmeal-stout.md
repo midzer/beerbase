@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-It is beer #2 in our \Blackwater Series\" of original Imperial Stouts. The first in the Series was \"Is\"
+It is beer #2 in our Blackwater Series" of original Imperial Stouts. The first in the Series was "Is"

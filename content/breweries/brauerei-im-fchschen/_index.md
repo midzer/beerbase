@@ -5,7 +5,7 @@ latitude: 47.3642
 longitude: 8.5245
 address1: Ratinger Strasse 28
 address2: 
-city: DÃ¼sseldorf
+city: Düsseldorf
 state: Nordrhein-Westfalen
 code: 
 country: Germany

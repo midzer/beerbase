@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A delicious example of the \neo-classical\" American beer style. It has a beautiful copper color and is topped with a thick rich head. With a hint of ale fruitiness in the nose
+A delicious example of the neo-classical" American beer style. It has a beautiful copper color and is topped with a thick rich head. With a hint of ale fruitiness in the nose

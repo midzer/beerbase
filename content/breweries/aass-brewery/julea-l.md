@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The Norwegian JuleÃ¸l can be traced back more that 1000 years. The \Gulatinglov\"
+The Norwegian JuleÃ¸l can be traced back more that 1000 years. The Gulatinglov"

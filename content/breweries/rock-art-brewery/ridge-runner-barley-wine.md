@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-â€œRobust, Dark and Smooth, hold on to your hat cause youâ€™ll lose your feet on this one!â€ Brewed with pale, dark crystal, Munich, flaked barley, black and chocolate malts. Hops include Cascade, Crystal, Challenger and Perle.
+â€œRobust, Dark and Smooth, hold on to your hat cause youâ€™ll lose your feet on this one!â€� Brewed with pale, dark crystal, Munich, flaked barley, black and chocolate malts. Hops include Cascade, Crystal, Challenger and Perle.

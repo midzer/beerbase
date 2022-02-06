@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Back by popular demand, our original \Wild Dog Release\" is back
+Back by popular demand, our original Wild Dog Release" is back

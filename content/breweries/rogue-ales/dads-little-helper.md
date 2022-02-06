@@ -8,5 +8,5 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\This aint your Dads malt liquor\" - Brewmaster John Maier 
+This aint your Dads malt liquor" - Brewmaster John Maier 
 After the death of his wife

@@ -10,4 +10,4 @@ upc: 0
 ---
 From Harpoon's site:
 
-\UFO Hefeweizen is an American unfiltered wheat beer.  Perhaps UFOâ€™s initial sensory perception is also its most prominent: a cloudy golden color and a dense
+UFO Hefeweizen is an American unfiltered wheat beer.  Perhaps UFOâ€™s initial sensory perception is also its most prominent: a cloudy golden color and a dense

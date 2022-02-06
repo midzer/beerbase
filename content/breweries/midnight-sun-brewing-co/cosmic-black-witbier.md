@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Close your eyes. The delicate aroma, flavor, texture of this beer whisper â€œwitbierâ€. Now open your eyes. The color is deceiving. You take another sip. Yes, witbier â€¦ but black as night. It is something quite peculiarâ€”BuT it is brilliantâ€”something shimmering and [not so] white.
+Close your eyes. The delicate aroma, flavor, texture of this beer whisper â€œwitbierâ€�. Now open your eyes. The color is deceiving. You take another sip. Yes, witbier â€¦ but black as night. It is something quite peculiarâ€”BuT it is brilliantâ€”something shimmering and [not so] white.

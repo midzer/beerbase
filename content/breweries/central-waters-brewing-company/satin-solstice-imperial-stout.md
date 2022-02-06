@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-This smooth, creamy stout and a crackling fireplace are the perfect answer to a wintery evening in Wisconsin. The rich coffee flavor compliments the \warm
+This smooth, creamy stout and a crackling fireplace are the perfect answer to a wintery evening in Wisconsin. The rich coffee flavor compliments the warm

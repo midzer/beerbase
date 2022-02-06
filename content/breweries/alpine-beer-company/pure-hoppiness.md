@@ -9,4 +9,4 @@ srm: 0
 upc: 0
 ---
 A West Coast Double IPA
-So mega-hopped it will take you to hop heaven. Weâ€™ve used hops in the boil, more hops in the giant hopback, and added to that, an incredible amount of dry-hopping for that cutting-edge â€œhop bite.â€ Once youâ€™ve tasted this unique beer, all others pale in comparison. 1.072 OG Classified IBU 8%ABV
+So mega-hopped it will take you to hop heaven. Weâ€™ve used hops in the boil, more hops in the giant hopback, and added to that, an incredible amount of dry-hopping for that cutting-edge â€œhop bite.â€� Once youâ€™ve tasted this unique beer, all others pale in comparison. 1.072 OG Classified IBU 8%ABV

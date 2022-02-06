@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-This malty, copper-colored lager is styled after Munich's traditional \Oktoberfest\" beers. A full-bodied
+This malty, copper-colored lager is styled after Munich's traditional Oktoberfest" beers. A full-bodied

@@ -10,4 +10,4 @@ upc: 0
 ---
 Cinder Cone Red's diverse selection of hops and barley captivates thirsty palates with its toffee-like flavor, intense citrus aroma and defined bitterness.
 
-Located on the northern slope of Mt. Bachelor, the Cinder Cone was also known as \Red Hill\" due to its reddish color that is revealed as the seasons change
+Located on the northern slope of Mt. Bachelor, the Cinder Cone was also known as Red Hill" due to its reddish color that is revealed as the seasons change

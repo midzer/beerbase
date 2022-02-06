@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-English style best bitter. It is a traditional English pub ale that is easy drinking, often referred to as a \session beer\". It is medium-bodied and copper colored with a noticeable malt flavor up front that finishes with a hop bitterness and floral hop flavor."
+English style best bitter. It is a traditional English pub ale that is easy drinking, often referred to as a session beer". It is medium-bodied and copper colored with a noticeable malt flavor up front that finishes with a hop bitterness and floral hop flavor."

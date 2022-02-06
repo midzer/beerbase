@@ -10,4 +10,4 @@ upc: 0
 ---
 Brewed to celebrate Ben's 300th birthday.
 
-Whether Ben Franklin ever said, \Beer is living proof that God loves us and wants us to be happy\" is up for debate. Some say he said it
+Whether Ben Franklin ever said, Beer is living proof that God loves us and wants us to be happy" is up for debate. Some say he said it

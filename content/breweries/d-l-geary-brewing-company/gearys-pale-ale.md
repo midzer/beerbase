@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\A classic British pale ale with a nod to the legendary beers of Burton-on-Trent. Copper-colored
+A classic British pale ale with a nod to the legendary beers of Burton-on-Trent. Copper-colored

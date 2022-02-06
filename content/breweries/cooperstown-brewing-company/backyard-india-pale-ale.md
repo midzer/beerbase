@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\Back Yard\" is a golden India Pale Ale. Historically
+Back Yard" is a golden India Pale Ale. Historically

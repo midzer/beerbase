@@ -8,6 +8,6 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-This name became a reference. This beer is mostly pointed out with its product name: â€œa Paterkeâ€. 
+This name became a reference. This beer is mostly pointed out with its product name: â€œa Paterkeâ€�. 
 
-This â€œPaterkeâ€ is a chestnut coloured dark beer with a high fermentation (6.7 alcohol content) and a full taste.
+This â€œPaterkeâ€� is a chestnut coloured dark beer with a high fermentation (6.7 alcohol content) and a full taste.

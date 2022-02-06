@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A Scottish \90/-\" ale. Brewed only once a year
+A Scottish 90/-" ale. Brewed only once a year

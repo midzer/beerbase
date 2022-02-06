@@ -3,7 +3,7 @@ title: Jinro Coors Brewing
 url: /jinro-coors-brewing/
 latitude: 37.5665
 longitude: 126.978
-address1: "Cheongwon Factory: 52, Joongsam-Ri, Hyundo-Myun"
+address1: Cheongwon Factory 52, Joongsam-Ri, Hyundo-Myun
 address2: 
 city: Seoul
 state: 

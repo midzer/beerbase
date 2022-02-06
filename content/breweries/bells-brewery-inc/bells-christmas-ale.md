@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A Scotch Ale, â€œbrewed with 100% Michigan barley and a blend of Pacific Northwest and Michigan hops.â€
+A Scotch Ale, â€œbrewed with 100% Michigan barley and a blend of Pacific Northwest and Michigan hops.â€�

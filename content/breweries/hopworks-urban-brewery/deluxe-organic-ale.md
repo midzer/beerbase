@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\Strong like bull but sweet like your momma. This unique beer is a trifecta of bold flavors. Hops
+Strong like bull but sweet like your momma. This unique beer is a trifecta of bold flavors. Hops

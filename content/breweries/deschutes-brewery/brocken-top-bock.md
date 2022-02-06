@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Broken Top Bock is a malt forward, high gravity lager with a subtle aroma and warming sweetness.  Czech Saaz hops balance a diverse malt composition that creates the flavor, color and mouth feel.  The lager yeast chosen for this beer plays an important role in the flavor contribution, adding sweet fruit overtones.  This bock boasts a clever 7% alcohol by volume so donâ€™t let it â€œkickâ€ you off of your stool.
+Broken Top Bock is a malt forward, high gravity lager with a subtle aroma and warming sweetness.  Czech Saaz hops balance a diverse malt composition that creates the flavor, color and mouth feel.  The lager yeast chosen for this beer plays an important role in the flavor contribution, adding sweet fruit overtones.  This bock boasts a clever 7% alcohol by volume so donâ€™t let it â€œkickâ€� you off of your stool.

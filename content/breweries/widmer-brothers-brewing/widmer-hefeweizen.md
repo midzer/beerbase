@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\A golden unfiltered wheat beer that is truly cloudy and clearly superb. Ever since Widmer introduced Hefeweizen to America in 1986
+A golden unfiltered wheat beer that is truly cloudy and clearly superb. Ever since Widmer introduced Hefeweizen to America in 1986

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\Guinness\" is the prototype of all modern stouts. Many people
+Guinness" is the prototype of all modern stouts. Many people

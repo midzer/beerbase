@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-\Nine Man\" is a golden ale
+Nine Man" is a golden ale

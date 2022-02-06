@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The inspiration for making a Black IPA (or should we say \India Black Ale/ IBA\"?) has been over a year in the making. As soon as we wrapped up the brewing of the Stone 10th Anniversary IPA
+The inspiration for making a Black IPA (or should we say India Black Ale/ IBA"?) has been over a year in the making. As soon as we wrapped up the brewing of the Stone 10th Anniversary IPA

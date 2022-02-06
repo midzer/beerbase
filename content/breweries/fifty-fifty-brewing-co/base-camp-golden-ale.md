@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The lightest of FiftyFifty's ales, Base Camp is a thirst quenching delight. Pale straw to light gold in color, this beer has a mild malt flavor combined with light bitterness and hop flavor. This beer finishes dry and is very light and refreshing on the palate. Base Camp is a \session beer\"
+The lightest of FiftyFifty's ales, Base Camp is a thirst quenching delight. Pale straw to light gold in color, this beer has a mild malt flavor combined with light bitterness and hop flavor. This beer finishes dry and is very light and refreshing on the palate. Base Camp is a session beer"

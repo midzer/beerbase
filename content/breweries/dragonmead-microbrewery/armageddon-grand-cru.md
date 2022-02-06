@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Grand Crus are traditionally known as \The best beer that a brewery makes.\" This Belgian-style quad lives up to that name and then some. Available once a year
+Grand Crus are traditionally known as The best beer that a brewery makes." This Belgian-style quad lives up to that name and then some. Available once a year

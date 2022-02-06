@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Let us give praise to our maker and glory to his bounty by learning about beer.\ ~ Friar Tuck 
+Let us give praise to our maker and glory to his bounty by learning about beer. ~ Friar Tuck 

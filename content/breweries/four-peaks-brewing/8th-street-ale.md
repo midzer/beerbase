@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Now In Bottles!! Our award winning 8th Street Ale is based on an English-style \Best Bitter\" which is the most common ale served in British pubs. What makes 8th Street Ale uncommon is its mellow bitterness and its slightly sweet malt flavor. It's aroma is derived from rare
+Now In Bottles!! Our award winning 8th Street Ale is based on an English-style Best Bitter" which is the most common ale served in British pubs. What makes 8th Street Ale uncommon is its mellow bitterness and its slightly sweet malt flavor. It's aroma is derived from rare

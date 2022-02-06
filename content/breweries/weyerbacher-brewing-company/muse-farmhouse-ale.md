@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Muse, a Farmhouse Ale,  is brewed \somewhat\" in the tradition of the style
+Muse, a Farmhouse Ale,  is brewed somewhat" in the tradition of the style

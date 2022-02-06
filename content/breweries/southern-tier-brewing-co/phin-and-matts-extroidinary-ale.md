@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-After sampling a wide array of great beers, the duo hit upon an idea.  \I've got it!\" exclaimed Matt
+After sampling a wide array of great beers, the duo hit upon an idea.  I've got it!" exclaimed Matt

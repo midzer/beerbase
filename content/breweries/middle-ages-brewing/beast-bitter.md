@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-This special bitter displays the subtle coppery hue of \Old Gold\". It's depth of lingering hop flavor awakens the palate."
+This special bitter displays the subtle coppery hue of Old Gold". It's depth of lingering hop flavor awakens the palate."
