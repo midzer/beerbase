@@ -47,6 +47,6 @@
     
     {{- $app := resources.Get "/js/app.js" -}}
     {{- $js := $app | minify | fingerprint }}
-    <script defer src="{{ $js.Permalink }}"></script>
+    <script defer src="{{ $js.RelPermalink }}"></script>
   </body>
 </html>
