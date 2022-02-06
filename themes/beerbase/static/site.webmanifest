@@ -2,7 +2,7 @@
     "name": "BeerBase",
     "lang": "en",
     "short_name": "BeerBase",
-    "description": "An accessible worldwide beer database",
+    "description": "An accessible worldwide open beer database",
     "icons": [
         {
             "src": "/img/logo-512.png",

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ block "title" . }}{{ if ne .Kind "home" -}}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    {{- $description := "An accessible worldwide beer database" -}}
+    {{- $description := "An accessible worldwide open beer database" -}}
     {{- if eq .Kind "section" -}}
       {{ $description = printf "Address, Phone and Website from %s" .Title }}
     {{- else if ne .Kind "home" -}}
