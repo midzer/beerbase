@@ -96,7 +96,7 @@ function findSuccess(position) {
       );
       if (result < minimumDistance) {
         minimumDistance = result;
-        url = '/' + entry.url + '/';
+        url = entry.url;
       }
     });
     // Don't forget to clean up
