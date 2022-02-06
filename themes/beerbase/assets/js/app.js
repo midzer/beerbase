@@ -207,8 +207,8 @@ function buildMap() {
     vectorLayer.addFeatures(feature);
   });
   // Determine map center
-  const center = getLatLngCenter(array);
-  map.setCenter(createLonLat(center[1], center[0]), 2);
+  const center = getLatLngCenter(array);  
+  map.setCenter(createLonLat(center[1], center[0]), array.length === 1 ? 16 : 2);
 
   // Add a selector control to the vectorLayer with popup functions
   const controls = {

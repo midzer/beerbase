@@ -16,12 +16,18 @@ All beers from {{ .Title }}
   {{ with .Params.phone }}<li>Phone: {{ . }}</li>{{ end }}
   {{ with .Params.website }}<li><a href="{{ . }}" rel="nofollow noopener">{{ . }}</a></li>{{ end }}
 </ul>
+{{ with .Content }}{{ . }}{{ else }}<p>There is no description about {{ .Title }} yet. You can add one <a href="https://github.com/midzer/beerbase/edit/master/content/{{ with .File }}{{ .Dir }}{{ end }}_index.md" rel="nofollow noopener">here ↗</a></p>{{ end }}
 <input type="text" placeholder="Filter beer..." aria-label="Filter beer...">
 <ul class="columns">
 {{ range .RegularPages }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 {{ end }}
+  <li hidden><a href="{{ .RelPermalink }}" data-lat="{{ .Params.latitude}}" data-lon="{{ .Params.longitude }}">{{ .Title }}</a></li>
 </ul>
-{{ with .Content }}{{ . }}{{ else }}<p>There is no description about {{ .Title }} yet. You can add one <a href="https://github.com/midzer/beerbase/edit/master/content/{{ with .File }}{{ .Dir }}{{ end }}_index.md" rel="nofollow noopener">here ↗</a></p>{{ end }}
+<div id="map" class="is-overlay">
+  {{ partialCached "load-btn.html" . }}
+  <a href="https://www.openstreetmap.org/" rel="nofollow noopener">OpenStreetMap ↗</a>
+  {{ partialCached "locate-btn.html" . }}
+</div>
 <a href="/">↶ back to home page</a>
 {{ end }}
