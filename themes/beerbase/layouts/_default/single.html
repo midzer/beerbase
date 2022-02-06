@@ -1,0 +1,29 @@
+{{ define "title" -}}
+{{ .Title }} from {{ .Parent.Title }} | {{ .Site.Title }}
+{{- end }}
+{{ define "heading" -}}
+{{ .Title }} from {{ .Parent.Title }}
+{{- end }}
+{{ define "main" }}
+{{ partialCached "find-btn.html" . }}
+<ul>
+  {{ with .Params.category }}<li>Category: {{ . }}</li>{{ end }}
+  {{ with .Params.style }}<li>Style: {{ . }}</li>{{ end }}
+  {{ with .Params.abv }}<li>ABV: {{ . }}</li>{{ end }}
+  {{ with .Params.ibu }}<li>IBU: {{ . }}</li>{{ end }}
+  {{ with .Params.srm }}<li>SRM: {{ . }}</li>{{ end }}
+  {{ with .Params.upc }}<li>UPC: {{ . }}</li>{{ end }}
+</ul>
+{{ with .Content }}{{ . }}{{ else }}<p>There is no description about {{ .Title }} yet. You can add one <a href="https://github.com/midzer/beerbase/edit/master/content/{{ .File.Dir }}{{ .File.BaseFileName }}.md" rel="nofollow noopener">here ↗</a></p>{{ end }}
+<nav aria-label="Switch to previous or next beer">
+  <ul>
+    {{ with .NextInSection }}
+    <li><a href="{{ .RelPermalink }}">← {{ .Title }}</a></li>
+    {{ end }}
+    {{ with .PrevInSection }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }} →</a></li>
+    {{ end }}
+  </ul>
+</nav>
+<a href="{{ .Parent.Params.url }}">↶ back to {{ .Parent.Title }}</a>
+{{ end }}

@@ -1,0 +1,9 @@
+baseURL = "https://beerba.se"
+languageCode = "en-US"
+title = "BeerBase"
+theme = "beerbase"
+
+disableKinds = ["taxonomy", "term", "RSS", "robotsTXT"]
+
+[outputs]
+  home = ["HTML", "JSON"]

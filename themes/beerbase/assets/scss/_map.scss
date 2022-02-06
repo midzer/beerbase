@@ -1,0 +1,38 @@
+#map {
+  height: 312px;
+  max-width: 100%;
+  border: 1px solid $doe-black;
+  position: relative;
+
+  &.is-overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: $osm-green;
+    background-image: linear-gradient(white 2px, transparent 2px),
+    linear-gradient(90deg, white 2px, transparent 2px),
+    linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+    background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;
+    background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;
+  }
+
+  > a,
+  > button {
+    background-color: $white;
+    border-color: $white;
+    color: $doe-black;
+  }
+
+  > a {
+    border-radius: $border-radius;
+    margin: 1.5rem 0 .5rem;
+    padding: 0.75rem 1.5rem;
+  }
+
+  .olControlAttribution {
+    // Fix placement
+    bottom: 0.5em;
+  }
+}

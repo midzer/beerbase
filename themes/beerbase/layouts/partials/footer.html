@@ -1,0 +1,21 @@
+<footer class="text-center">
+  <hr>
+  <div>
+    <a href="https://github.com/midzer/beerbase" rel="nofollow noopener">
+      Source ↗
+    </a>
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" rel="nofollow noopener">
+      BY-NC ↗
+    </a>
+    <a href="/legal/" rel="nofollow">
+      Legal
+    </a>
+    <a href="/privacy/" rel="nofollow">
+      Privacy
+    </a>
+  </div>
+  <p>Built with &lt;3 by <a href="https://rohner.io/" rel="nofollow noopener">Rohner Solutions ↗</a></p>
+  {{ $breweryCount := len (.Site.GetPage "section" "breweries").Sections }}
+  {{ $beerCount := len .Site.RegularPages }}
+  <samp>{{ $beerCount }} beers from {{ $breweryCount }} breweries<br>Last update {{ now.Format "January 2, 2006" }}</samp>
+</footer>

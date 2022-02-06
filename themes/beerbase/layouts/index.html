@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ .Content }}
+{{ partialCached "find-btn.html" . }}
+<input type="text" placeholder="Filter breweries..." aria-label="Filter breweries...">
+<ul class="columns">
+  {{ range (.Site.GetPage "section" "breweries").Sections }}
+  <li><a href="{{ .RelPermalink }}" data-lat="{{ .Params.latitude}}" data-lon="{{ .Params.longitude }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+<div id="map" class="is-overlay">
+  {{ partialCached "load-btn.html" . }}
+  <a href="https://www.openstreetmap.org/" rel="nofollow noopener">OpenStreetMap ↗</a>
+  {{ partialCached "locate-btn.html" . }}
+</div>
+{{- end -}}

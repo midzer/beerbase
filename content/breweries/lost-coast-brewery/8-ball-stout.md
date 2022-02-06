@@ -1,0 +1,11 @@
+---
+title: "8-Ball Stout"
+url: /lost-coast-brewery/8-ball-stout/
+category: North American Ale
+style: American-Style Stout
+abv: 0
+ibu: 0
+srm: 0
+upc: 0
+---
+

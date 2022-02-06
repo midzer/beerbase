@@ -1,0 +1,11 @@
+---
+title: "Hefe-Weizen"
+url: /diamond-knot-brewery-and-alehouse/hefe-weizen/
+category: German Ale
+style: South German-Style Hefeweizen
+abv: 5.8
+ibu: 0
+srm: 0
+upc: 0
+---
+

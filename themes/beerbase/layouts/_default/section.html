@@ -1,0 +1,27 @@
+{{ define "title" -}}
+All beers from {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+{{ define "heading" -}}
+All beers from {{ .Title }}
+{{- end }}
+{{ define "main" }}
+{{ partialCached "find-btn.html" . }}
+<ul>
+  {{ with .Params.address1 }}<li>{{ . }}</li>{{ end }}
+  {{ with .Params.address2 }}<li>{{ . }}</li>{{ end }}
+  {{ with .Params.city }}<li>{{ . }}</li>{{ end }}
+  {{ with .Params.state }}<li>{{ . }}</li>{{ end }}
+  {{ with .Params.code }}<li>{{ . }}</li>{{ end }}
+  {{ with .Params.country }}<li>{{ . }}</li>{{ end }}
+  {{ with .Params.phone }}<li>Phone: {{ . }}</li>{{ end }}
+  {{ with .Params.website }}<li><a href="{{ . }}" rel="nofollow noopener">{{ . }}</a></li>{{ end }}
+</ul>
+<input type="text" placeholder="Filter beer..." aria-label="Filter beer...">
+<ul class="columns">
+{{ range .RegularPages }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ with .Content }}{{ . }}{{ else }}<p>There is no description about {{ .Title }} yet. You can add one <a href="https://github.com/midzer/beerbase/edit/master/content/{{ with .File }}{{ .Dir }}{{ end }}_index.md" rel="nofollow noopener">here ↗</a></p>{{ end }}
+<a href="/">↶ back to home page</a>
+{{ end }}

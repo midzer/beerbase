@@ -1,0 +1,11 @@
+---
+title: "Weissenheimer Wheat"
+url: /brewmasters-restaurant-and-brewery-south/weissenheimer-wheat/
+category: German Ale
+style: South German-Style Hefeweizen
+abv: 0
+ibu: 0
+srm: 0
+upc: 0
+---
+

@@ -1,0 +1,11 @@
+---
+title: "Weizenbier"
+url: /gasthof-brauerei-zum-frohsinn/weizenbier/
+category: German Ale
+style: South German-Style Hefeweizen
+abv: 0
+ibu: 0
+srm: 0
+upc: 0
+---
+

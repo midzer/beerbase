@@ -1,0 +1,11 @@
+---
+title: "Witte Ezel"
+url: /brouwerij-bavik-de-brabandere/witte-ezel/
+category: 
+style: 
+abv: 0
+ibu: 0
+srm: 0
+upc: 0
+---
+

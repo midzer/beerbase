@@ -1,0 +1,11 @@
+---
+title: "Old Scratch Barleywine 2000"
+url: /great-dane-pub-and-brewing-1/old-scratch-barleywine-2000/
+category: 
+style: 
+abv: 0
+ibu: 0
+srm: 0
+upc: 0
+---
+

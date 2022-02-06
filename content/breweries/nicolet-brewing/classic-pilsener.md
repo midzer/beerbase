@@ -1,0 +1,11 @@
+---
+title: "Classic Pilsener"
+url: /nicolet-brewing/classic-pilsener/
+category: 
+style: 
+abv: 5
+ibu: 0
+srm: 0
+upc: 0
+---
+

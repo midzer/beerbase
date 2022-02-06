@@ -1,0 +1,37 @@
+.overlay {
+  background-color: $overlay-background;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+.loader {
+  display: inline-block;
+  height: em(100);
+  left: calc(50% - #{em(50)});
+  position: absolute;
+  top: calc(50% - #{em(50)});
+  width: em(100);
+
+  &::before {
+    animation: spin 1s infinite;
+    border-radius: 100%;
+    border: em(4) solid #949ba3;
+    border-top-color: $white;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

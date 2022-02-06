@@ -1,0 +1,12 @@
+header {
+  display: flex;
+  
+  > img {
+    align-self: start;
+  }
+
+  > h1 {
+    margin: 0;
+    align-self: center;
+  }
+}

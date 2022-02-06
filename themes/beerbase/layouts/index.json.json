@@ -1,0 +1,10 @@
+[
+  {{- range $i, $c := (.Site.GetPage "section" "breweries").Sections -}}
+  {{ if $i }},{{ end }}
+  {
+    "name": "{{ .Title }}",
+    "lat": "{{ .Params.latitude }}",
+    "lon": "{{ .Params.longitude }}"
+  }
+  {{- end }}
+]

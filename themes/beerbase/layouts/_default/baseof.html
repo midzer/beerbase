@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ block "title" . }}{{ if ne .Kind "home" -}}{{ .Title }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    {{- $description := "An accessible worldwide beer database" -}}
+    {{- if eq .Kind "section" -}}
+      {{ $description = printf "Address, Phone and Website from %s" .Title }}
+    {{- else if ne .Kind "home" -}}
+      {{ $description = printf "Category, Style, ABV, IBU, SRM, UPC of %s from %s" .Title .Parent.Title }}
+    {{- end }}
+    <meta name="description" content="{{ $description }}">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <meta property="og:site_name" content="BeerBase">
+    <meta property="og:title" content="beerba.se">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="/img/logo-512.png">
+    <meta property="og:description" content="{{ $description }}">
+    
+    <link rel="canonical" href="{{- .Permalink -}}">
+    
+    <link rel="icon" href="data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3e%3ctext y='.9em' font-size='90'%3e🍺%3c/text%3e%3c/svg%3e">
+
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#db8116">
+
+    {{- $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  </head>
+  <body>
+
+    <header>
+      <h1><a href="/" aria-label="Back to home page">🍺</a> {{ block "heading" . }}{{ .Title }}{{ end }}</h1>
+    </header>
+
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partialCached "footer.html" . }}
+    
+    {{- $app := resources.Get "/js/app.js" -}}
+    {{- $js := $app | minify | fingerprint }}
+    <script defer src="{{ $js.Permalink }}"></script>
+  </body>
+</html>
