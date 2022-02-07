@@ -1,5 +1,5 @@
 ---
-title: "India Red Ale (The \IRA\)"
+title: "India Red Ale (The IRA)"
 url: /double-mountain-brewery-and-taproom/india-red-ale-the-ira/
 category: North American Ale
 style: American-Style India Pale Ale

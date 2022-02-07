@@ -1,5 +1,5 @@
 ---
-title: "The \400\ Honey Ale"
+title: "The 400 Honey Ale"
 url: /titletown-brewing/the-400-honey-ale/
 category: 
 style: 

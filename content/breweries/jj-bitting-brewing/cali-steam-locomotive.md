@@ -1,5 +1,5 @@
 ---
-title: "Cali \Steam\ Locomotive"
+title: "Cali Steam Locomotive"
 url: /jj-bitting-brewing/cali-steam-locomotive/
 category: 
 style: 

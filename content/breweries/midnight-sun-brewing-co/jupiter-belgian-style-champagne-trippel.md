@@ -1,5 +1,5 @@
 ---
-title: "Jupiter - Belgian-style \Champagne\ Trippel"
+title: "Jupiter - Belgian-style Champagne Trippel"
 url: /midnight-sun-brewing-co/jupiter-belgian-style-champagne-trippel/
 category: Belgian and French Ale
 style: Belgian-Style Tripel

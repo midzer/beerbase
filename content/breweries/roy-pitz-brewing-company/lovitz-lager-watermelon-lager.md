@@ -1,5 +1,5 @@
 ---
-title: "Lovitz Lager \Watermelon Lager\"
+title: "Lovitz Lager Watermelon Lager"
 url: /roy-pitz-brewing-company/lovitz-lager-watermelon-lager/
 category: North American Lager
 style: American-Style Lager

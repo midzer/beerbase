@@ -1,5 +1,5 @@
 ---
-title: "Triple \H\"
+title: "Triple H"
 url: /hops-haven-brew-haus/triple-h/
 category: German Ale
 style: South German-Style Hefeweizen
