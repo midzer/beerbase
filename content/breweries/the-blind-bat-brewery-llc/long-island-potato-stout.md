@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Brewed with real mashed Long Island Potatoes (or is it Potatos"?) in the mash - hence
+Brewed with real mashed Long Island Potatoes (or is it \Potatos\"?) in the mash - hence

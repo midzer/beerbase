@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Water is extracted from our own 300â€™ deep borehole and combined with Soil Association accredited light malted barley from Norfolk. Organic hops provide the distinctive palate. The yeast used is St. Peterâ€™s own single strand variety. The result is a delicate, clean, crisp, lightly carbonated, traditional English Ale with a full â€˜citrus hopâ€™ aftertaste. This lovely beer won the Soil Associationâ€™s top prize in 2002 and a silver medal in 2006.
+Water is extracted from our own 300’ deep borehole and combined with Soil Association accredited light malted barley from Norfolk. Organic hops provide the distinctive palate. The yeast used is St. Peter’s own single strand variety. The result is a delicate, clean, crisp, lightly carbonated, traditional English Ale with a full ‘citrus hop’ aftertaste. This lovely beer won the Soil Association’s top prize in 2002 and a silver medal in 2006.

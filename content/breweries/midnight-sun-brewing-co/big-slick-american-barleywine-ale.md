@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-This kick ass American Barley Wine is all about hops â€”Nugget, Chinook, Simcoe and Centennial. And, yeah, LoTs of â€˜em. OKâ€¦thereâ€™s a substantial malt base on which these juicy Pacific NW hops lie down and do their dirty work. Maybe thatâ€™s too much infoâ€¦
+This kick ass American Barley Wine is all about hops —Nugget, Chinook, Simcoe and Centennial. And, yeah, LoTs of ‘em. OK…there’s a substantial malt base on which these juicy Pacific NW hops lie down and do their dirty work. Maybe that’s too much info…

@@ -12,4 +12,4 @@ Dogma is an innovative, enigmatic ale brewed with guarana, poppy seeds and kola 
 
 The flavours, intricacies and nuances of this beer are best enjoyed while musing over some obscure 17th Century philosophical meanderings, such as:
 
-If we disbelieve everything because we cannot certainly know all things we will do much
+\If we disbelieve everything because we cannot certainly know all things we will do much

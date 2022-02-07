@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Hop Ottin' IPA is as hoppy as they come. The name means hard working hops
+Hop Ottin' IPA is as hoppy as they come. The name means \hard working hops

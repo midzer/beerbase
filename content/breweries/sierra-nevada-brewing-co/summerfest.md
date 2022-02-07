@@ -9,7 +9,7 @@ srm: 0
 upc: 0
 ---
 From the Sierra Nevada Brewing Co. website:
-Our SummerfestÂ® is a refreshing, pilsner-style lager. Its incredible smoothness comes from an extra-long lagering period. Lighter in body than our ales but just as complex in character, SummerfestÂ® quenches your thirst with big aroma and a tangy hop bite. 
+Our Summerfest® is a refreshing, pilsner-style lager. Its incredible smoothness comes from an extra-long lagering period. Lighter in body than our ales but just as complex in character, Summerfest® quenches your thirst with big aroma and a tangy hop bite. 
 
 GOLD MEDAL WINNER
 California State Fair (European Light Lagers: 1999)

@@ -10,8 +10,8 @@ upc: 0
 ---
 From their site:
 
-Harpoon IPA is an interpretation of the classic English style using hops and malt grown in the United States."
+\Harpoon IPA is an interpretation of the classic English style using hops and malt grown in the United States.\"
 
 ...
 
-"The high hopping of Harpoon IPA is not only noticeable in the nose but especially in the finish. The lingering bitter finish of this beer is not harsh or astringent
+\"The high hopping of Harpoon IPA is not only noticeable in the nose but especially in the finish. The lingering bitter finish of this beer is not harsh or astringent

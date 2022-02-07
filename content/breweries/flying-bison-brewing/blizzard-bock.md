@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Although itâ€™s named after our most famous weather event, this beer has nothing in common with the harsh bite of winter. In fact itâ€™s smooth slightly chocolaty flavor helps you forget Jack Frost altogether. German pale and Munich malts form the base flavors with hints of chocolate and caramel. Very soft, floral German hops ease the finish into dryness. Available on draft and in bottles from November to March.
+Although it’s named after our most famous weather event, this beer has nothing in common with the harsh bite of winter. In fact it’s smooth slightly chocolaty flavor helps you forget Jack Frost altogether. German pale and Munich malts form the base flavors with hints of chocolate and caramel. Very soft, floral German hops ease the finish into dryness. Available on draft and in bottles from November to March.

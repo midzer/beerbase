@@ -1,5 +1,5 @@
 ---
-title: "Johnny Blood McNally Irish Red"
+title: "Johnny \Blood\ McNally Irish Red"
 url: /titletown-brewing/johnny-blood-mcnally-irish-red/
 category: North American Ale
 style: American-Style Amber/Red Ale

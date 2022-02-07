@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-As the story goes, I was redesigning our I.P.A. to be bigger and better but as it came together it started to take on a life of its own. After much deliberation and several pints of our new creation we decided to name him after the master of macabre, Edgar Allen Poe, as a tribute to his aptly named short story HOP FROG." As Edgar fermented and spewed his almost abusive hop aroma throughout the pub
+As the story goes, I was redesigning our I.P.A. to be bigger and better but as it came together it started to take on a life of its own. After much deliberation and several pints of our new creation we decided to name him after the master of macabre, Edgar Allen Poe, as a tribute to his aptly named short story \HOP FROG.\" As Edgar fermented and spewed his almost abusive hop aroma throughout the pub

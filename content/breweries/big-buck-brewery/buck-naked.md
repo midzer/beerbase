@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-An American-style light beer".  Formulated to appeal to those who prefer a lighter tasting brew."
+An American-style \light beer\".  Formulated to appeal to those who prefer a lighter tasting brew."

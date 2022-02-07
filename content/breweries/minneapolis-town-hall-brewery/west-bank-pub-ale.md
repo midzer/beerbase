@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Most welcoming British pubs off a house ale or pub ale" â€” this is ours. We use only the finest English barley
+Most welcoming British pubs off a house ale or \pub ale\" — this is ours. We use only the finest English barley

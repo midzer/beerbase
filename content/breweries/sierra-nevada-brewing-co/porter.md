@@ -9,13 +9,13 @@ srm: 0
 upc: 0
 ---
 From the Sierra Nevada Brewing Co. website:
-Dark and rich, Sierra Nevada Porter is a delicious, medium-bodied ale with a creamy head. The Porterâ€™s smooth flavor (malty with hints of caramel) comes from a blend of deep-roasted barley malts.
+Dark and rich, Sierra Nevada Porter is a delicious, medium-bodied ale with a creamy head. The Porter’s smooth flavor (malty with hints of caramel) comes from a blend of deep-roasted barley malts.
 
 
-â€œâ€¦there can be little doubt that this is one of the best porters being brewed anywhere in the world today.â€�
+“…there can be little doubt that this is one of the best porters being brewed anywhere in the world today.”
 
-â€” Christopher Finch, A Connoisseurâ€™s Guide 
-to the Worldâ€™s Best Beer
+— Christopher Finch, A Connoisseur’s Guide 
+to the World’s Best Beer
 
 FIRST PLACE
 California Brewers Festival (Robust Porter: 2000)

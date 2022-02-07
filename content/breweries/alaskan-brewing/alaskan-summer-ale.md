@@ -8,7 +8,7 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Based on the traditional style of KÃ¶lsch beer brewed in Cologne, Germany.
+Based on the traditional style of Kölsch beer brewed in Cologne, Germany.
 
 Alaskan Summer Ale balances a softly malted palate with the clean freshness of Hallertauer hops. In the tradition of the style, neither overpowers the other. Both hops and malt come together to refresh and renew the palate. The straw-gold color and easy drinkability are an enjoyable way to celebrate summer.
 

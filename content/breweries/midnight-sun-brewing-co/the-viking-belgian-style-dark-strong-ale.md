@@ -10,13 +10,13 @@ upc: 0
 ---
 SPECIAL COMMEMORATIVE BEER
 
-To commemorate the life of a huge-hearted and long-time friend from the homebrewing community, Midnight Sun Brewing Company brewed a very special beer in honor of David Yanoshek, who was fondly known as â€œYanoâ€�. 
+To commemorate the life of a huge-hearted and long-time friend from the homebrewing community, Midnight Sun Brewing Company brewed a very special beer in honor of David Yanoshek, who was fondly known as “Yano”. 
 
-This big strong beer celebrates the abundant life of an incredible man with an enormous yet ever engaging laugh. Yano pursued life with a Viking spirit, endless love and boundless energy for family, friends, scoutsâ€¦and beer. 
+This big strong beer celebrates the abundant life of an incredible man with an enormous yet ever engaging laugh. Yano pursued life with a Viking spirit, endless love and boundless energy for family, friends, scouts…and beer. 
 
 A big strong beer for a big strong guy, The Viking Belgian-style Dark Strong Ale boasts a beautiful balance of character and complexity. Dark roasted malts, Belgian yeast, star anise and sweet-ripened raisins come together in an amazing ale that can be enjoyed now and cellared for later celebrations. 
 
-As you lock horns with this commemorative ale, toast to Yano. With his incredibly stoic spirit and his irrepressible laugh, Yano was the gentle giant who will forever touch our lives. PrÃ¶st! 
+As you lock horns with this commemorative ale, toast to Yano. With his incredibly stoic spirit and his irrepressible laugh, Yano was the gentle giant who will forever touch our lives. Pröst! 
 
 All proceeds from sales of this beer will be donated to the Yanoshek family.
 

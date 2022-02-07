@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The Traditional British Pint" lives on at Deschutes Brewery & Public House.  One of the original three packaged beers
+\The Traditional British Pint\" lives on at Deschutes Brewery & Public House.  One of the original three packaged beers

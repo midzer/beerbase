@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A pitch black stout made with ginger, cinnamon and a touch of molasses. This mediumâ€“bodied ale has flavors of dark chocolate, roasted coffee beans and ginger snap cookies.
+A pitch black stout made with ginger, cinnamon and a touch of molasses. This medium–bodied ale has flavors of dark chocolate, roasted coffee beans and ginger snap cookies.

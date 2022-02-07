@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Stout was first introduced by Guinness in Ireland as Extra Stout" (a stronger version of their Porter). Later
+Stout was first introduced by Guinness in Ireland as \Extra Stout\" (a stronger version of their Porter). Later

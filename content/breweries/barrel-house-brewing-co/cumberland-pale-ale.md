@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Early Cincinnati brewers shipping their beers into Tennessee would generously hop their beer to prevent spoilage during the long arduous trip over the Cumberland Trail. This classic interpretation of the American Pale Ale features a solid foundation of pale malt loaded with fresh Cascade hops. Hereâ€™s to getting where youâ€™re going!
+Early Cincinnati brewers shipping their beers into Tennessee would generously hop their beer to prevent spoilage during the long arduous trip over the Cumberland Trail. This classic interpretation of the American Pale Ale features a solid foundation of pale malt loaded with fresh Cascade hops. Here’s to getting where you’re going!

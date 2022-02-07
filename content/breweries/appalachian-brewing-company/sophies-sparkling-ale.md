@@ -10,4 +10,4 @@ upc: 0
 ---
 This Braggart Mead styled ale is light and refreshing with an essence of orange blossoms, pear, and honey in the aroma and a balanced fruity and clean finish. 
 
-This style was developed by our Brewmaster to have the perfect carbonation and crispness on our summerâ€™s hot and humid Pennsylvania days.
+This style was developed by our Brewmaster to have the perfect carbonation and crispness on our summer’s hot and humid Pennsylvania days.

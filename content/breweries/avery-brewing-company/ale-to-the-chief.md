@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Ale to the Chief! We the Brewers of Avery Brewing Company
+\Ale to the Chief! We the Brewers of Avery Brewing Company

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-This lager like ale is modeled after the official beer of KÃ¶ln, Germany.  Kolsch is delicate and refreshing with a slight fruitiness and supportive, yet unobtrusive hop bitterness
+This lager like ale is modeled after the official beer of Köln, Germany.  Kolsch is delicate and refreshing with a slight fruitiness and supportive, yet unobtrusive hop bitterness

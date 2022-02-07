@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Raise your glass to the heavens in a toast to HOPS â€“ the spice of beer! This classic American I.P.A. features the finest American hops to add a spicy, assertive, and citrusy character to its full-bodied, rich malt taste
+Raise your glass to the heavens in a toast to HOPS – the spice of beer! This classic American I.P.A. features the finest American hops to add a spicy, assertive, and citrusy character to its full-bodied, rich malt taste

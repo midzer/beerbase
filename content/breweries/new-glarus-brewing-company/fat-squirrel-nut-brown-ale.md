@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-One deceptively spring like winter day, Brewmaster Dan walked home from the brewery, sat down to dinner and said, Boy
+One deceptively spring like winter day, Brewmaster Dan walked home from the brewery, sat down to dinner and said, \Boy

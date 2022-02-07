@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A double IPA that is sure to make you as all-knowing as Pythia.  Itâ€™s just a matter of interpretation.
+A double IPA that is sure to make you as all-knowing as Pythia.  It’s just a matter of interpretation.

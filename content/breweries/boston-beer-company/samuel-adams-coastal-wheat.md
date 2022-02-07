@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-For our take on the classic hefeweizen style our search for unique ingredients led us to the Eureka and Lisbon varieties of lemon grown in three different regions of California.  These particular lemons added the perfect balance of citrus tartness and sweetness to accent the taste of the beer.  The spiciness of the Hallertau Mittelfruh and Spalt Spalter hops balance out the slightly sweet character of our breweryâ€™s own signature wheat malt, resulting in a crisp and refreshing wheat beer with a subtle lemon aroma and flavor.
+For our take on the classic hefeweizen style our search for unique ingredients led us to the Eureka and Lisbon varieties of lemon grown in three different regions of California.  These particular lemons added the perfect balance of citrus tartness and sweetness to accent the taste of the beer.  The spiciness of the Hallertau Mittelfruh and Spalt Spalter hops balance out the slightly sweet character of our brewery’s own signature wheat malt, resulting in a crisp and refreshing wheat beer with a subtle lemon aroma and flavor.

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Johnny Cask has entered the building! Weâ€™ve retrofitted a 15 barrel tank to perfectly produce a very special cask conditioned ale (so, we have a little time to play around during winters at the Delaware coast). This beer, known as Dogfish Head 75 Minute IPA is a blend of 60 and 90 Minute IPAs with a special whole leaf cascade dry-hopping session.
+Johnny Cask has entered the building! We’ve retrofitted a 15 barrel tank to perfectly produce a very special cask conditioned ale (so, we have a little time to play around during winters at the Delaware coast). This beer, known as Dogfish Head 75 Minute IPA is a blend of 60 and 90 Minute IPAs with a special whole leaf cascade dry-hopping session.

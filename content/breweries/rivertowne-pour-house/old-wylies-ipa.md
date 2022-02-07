@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-In honor of our friend and mascot, Wylie the fish, we are hooking you up with an aggressively hopped India Pale, the staple for any fishing trip! This beer is a hop loverâ€™s dream!
+In honor of our friend and mascot, Wylie the fish, we are hooking you up with an aggressively hopped India Pale, the staple for any fishing trip! This beer is a hop lover’s dream!

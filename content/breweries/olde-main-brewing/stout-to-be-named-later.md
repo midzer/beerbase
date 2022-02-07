@@ -1,5 +1,5 @@
 ---
-title: "Stout To Be Named Later"
+title: "Stout \To Be Named Later\"
 url: /olde-main-brewing/stout-to-be-named-later/
 category: North American Ale
 style: American-Style Stout

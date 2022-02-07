@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Is an award-winning, traditional, all-natural style of beer that falls under the category of a West Coast" India Pale Ale (IPA). Characterized by its high hop content
+Is an award-winning, traditional, all-natural style of beer that falls under the category of a \West Coast\" India Pale Ale (IPA). Characterized by its high hop content

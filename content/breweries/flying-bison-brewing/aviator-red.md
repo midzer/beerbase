@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Buffaloâ€™s favorite red ale. Ruby red and malty flavored with a medium body and a spicy hop signature to balance. Available in bottles and on draft
+Buffalo’s favorite red ale. Ruby red and malty flavored with a medium body and a spicy hop signature to balance. Available in bottles and on draft

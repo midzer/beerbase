@@ -10,4 +10,4 @@ upc: 0
 ---
 With passion & purpose, we present this series of experimental hop-driven beers. Using different hop varieties & brewing techniques, we aim to educate the palate & challenge the hophead in you.
 
-Obliteration VI is a Double IPA brewed with Summit, Summit and Summit; 95 IBUâ€™s
+Obliteration VI is a Double IPA brewed with Summit, Summit and Summit; 95 IBU’s

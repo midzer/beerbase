@@ -15,4 +15,4 @@ Our interpretation of a traditional Belgian wheat beer, Allagash White is unique
 Available in: 12 oz and 750 ml bottles, 15.5 and 5.17 gal kegs
 ABV: 5.0%
 Original Gravity: 1048
-Recommended Serving Temp: 34Â°F to 50Â°F
+Recommended Serving Temp: 34°F to 50°F

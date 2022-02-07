@@ -1,5 +1,5 @@
 ---
-title: "Ginger-slap Spiced Ale"
+title: "Ginger-\slap\ Spiced Ale"
 url: /zea-rotisserie-and-brewery/ginger-slap-spiced-ale/
 category: 
 style: 

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Originally known as B to the E""
+Originally known as \B to the E\""

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Rich fruitcake aromas â€“ almonds, zest and conserved fruit. A wonderful balance of malt and hop flavours. A beer to savour and rich in flavour.
+Rich fruitcake aromas – almonds, zest and conserved fruit. A wonderful balance of malt and hop flavours. A beer to savour and rich in flavour.

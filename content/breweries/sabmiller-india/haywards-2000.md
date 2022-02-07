@@ -16,7 +16,7 @@ Hops:  Hop extract from Germany and Indian hops palate
 Colour:  Gold  
 Availability:  Parts of India  
 Fermentation process: Bottom-fermented  
-Serving temperature:  7 - 9 Â°C  
+Serving temperature:  7 - 9 °C  
 Packaging:  650 ml and 330 ml glass bottle and 330 ml cans  
 
 http://www.sabmiller.in/brands_haywards_2000.html

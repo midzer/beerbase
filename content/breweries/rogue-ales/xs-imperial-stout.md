@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Deserving the title Emperor of Ales" (unlike the bourgeois "King of Beers")
+Deserving the title \Emperor of Ales\" (unlike the bourgeois \"King of Beers\")

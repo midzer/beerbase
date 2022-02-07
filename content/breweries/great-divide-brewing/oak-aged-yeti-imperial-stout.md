@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Crack open Yeti Imperial Stoutâ€™s sophisticated sibling â€“ Oak Aged Yeti Imperial Stout. Although these beers come from the same clan, they have entirely different personalities. Aging on a blend of French and toasted oak chips infuses a subtle oak and vanilla character into Yetiâ€™s already intense chocolate, roasted coffee malt flavor and hugely assertive hop profile. Who says you canâ€™t tame a Yeti?
+Crack open Yeti Imperial Stout’s sophisticated sibling – Oak Aged Yeti Imperial Stout. Although these beers come from the same clan, they have entirely different personalities. Aging on a blend of French and toasted oak chips infuses a subtle oak and vanilla character into Yeti’s already intense chocolate, roasted coffee malt flavor and hugely assertive hop profile. Who says you can’t tame a Yeti?

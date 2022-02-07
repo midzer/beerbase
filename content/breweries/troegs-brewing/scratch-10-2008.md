@@ -8,7 +8,7 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-he third time just might be the charmâ€”Scratch #10-2008 is our third triple in the Scratch Beer series.
+he third time just might be the charm—Scratch #10-2008 is our third triple in the Scratch Beer series.
 
 This grand cru has been lovingly aged since late-February, yet still unleashes the slightest hint of alcohol heat.
 

@@ -10,6 +10,6 @@ upc: 0
 ---
 The Rocky Mountain Goat is no ordinary goat. Just like Odell Red is no ordinary red. 
 
-We took the American-style red to a whole new level by adding a variety of aggressive American hopsâ€”giving this ale a distinctive fresh hop aroma and flavor. 
+We took the American-style red to a whole new level by adding a variety of aggressive American hops—giving this ale a distinctive fresh hop aroma and flavor. 
 
 We think you'll agree this red has some serious kick.

@@ -18,5 +18,5 @@ The blonde Maredsous with 6% alcohol content, the brown one with 8% alcohol cont
 
 About Maredsous
 
-The triple Maredsous with 10% alcohol content is one of the favourite beers of Michael Jackson, the outstanding beer â€™popeâ€™:
-These beers have long been my favourites. Above all the 10Â° is an especially tasty beer.""
+The triple Maredsous with 10% alcohol content is one of the favourite beers of Michael Jackson, the outstanding beer ’pope’:
+\These beers have long been my favourites. Above all the 10° is an especially tasty beer.\""

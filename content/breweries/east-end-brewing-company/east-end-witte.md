@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A Belgian White" wheat beer
+A \Belgian White\" wheat beer

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A deep copper coloured traditional Irish Ale with highly developed and complex flavours. St Patrickâ€™s Ale/Dark is brewed with four malts and two hops, carefully married together to complement eachother producing a satisfying full flavour, ending with a Styrian late hop for a truly brilliant finish.
+A deep copper coloured traditional Irish Ale with highly developed and complex flavours. St Patrick’s Ale/Dark is brewed with four malts and two hops, carefully married together to complement eachother producing a satisfying full flavour, ending with a Styrian late hop for a truly brilliant finish.

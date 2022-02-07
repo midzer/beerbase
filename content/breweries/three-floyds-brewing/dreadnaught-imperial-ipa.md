@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A hop loverâ€™s dream! Mango and peach aromas with a crisp citrus finish.
+A hop lover’s dream! Mango and peach aromas with a crisp citrus finish.

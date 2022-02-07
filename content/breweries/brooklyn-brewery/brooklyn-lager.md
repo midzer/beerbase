@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Brooklyn Lager, the Brewery's flagship label, is New York's hometown" beer
+Brooklyn Lager, the Brewery's flagship label, is New York's \hometown\" beer

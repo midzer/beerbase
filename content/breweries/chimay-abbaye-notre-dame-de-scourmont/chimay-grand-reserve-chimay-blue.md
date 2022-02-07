@@ -8,7 +8,7 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Named Grande RÃ©serve in 75 cl (25.4 fl.oz.) bottles, it is principally distinguished by its character of a strong beer. 
+Named Grande Réserve in 75 cl (25.4 fl.oz.) bottles, it is principally distinguished by its character of a strong beer. 
 
 This is a beer whose fragrance of fresh yeast with a light, flowery rosy touch is especially pleasant. 
 

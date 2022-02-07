@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-GUINNESSÂ® Extra Stout is steeped in heritage - a whole costume drama in a bottle. It
+GUINNESS® Extra Stout is steeped in heritage - a whole costume drama in a bottle. It

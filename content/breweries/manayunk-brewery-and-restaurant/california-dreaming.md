@@ -8,5 +8,5 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Imperial, or super IPAâ€™s were spawned out of the fascination of hops by the American consumer and are beyond Pale Ales and IPAâ€™S in terms of both hop and alcohol content. Our interpretation is orange-gold in color, lightly bitter but highly hoppy with a firm malt backbone. 
-Weâ€™ll gladly put this head-to-head with the best that those California Hophead/Brewers have to offer.
+Imperial, or super IPA’s were spawned out of the fascination of hops by the American consumer and are beyond Pale Ales and IPA’S in terms of both hop and alcohol content. Our interpretation is orange-gold in color, lightly bitter but highly hoppy with a firm malt backbone. 
+We’ll gladly put this head-to-head with the best that those California Hophead/Brewers have to offer.

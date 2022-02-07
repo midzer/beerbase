@@ -9,4 +9,4 @@ srm: 0
 upc: 0
 ---
 From the Brewer's Website:
-The Dundee family began with Honey Brown Lager in the early 1990's during the height of the craft brewing resurgence. Introduced by then brewery head Jack JW" Wehle
+The Dundee family began with Honey Brown Lager in the early 1990's during the height of the craft brewing resurgence. Introduced by then brewery head Jack \JW\" Wehle

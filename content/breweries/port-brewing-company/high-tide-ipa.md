@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-ach and every fall, we experience a coastal experience in San Diego known as the Super High Tide." This happens later in the Fall Season when the tidal swings reach a range of about 8 feet in difference between low and high tides. When this happens
+ach and every fall, we experience a coastal experience in San Diego known as the \Super High Tide.\" This happens later in the Fall Season when the tidal swings reach a range of about 8 feet in difference between low and high tides. When this happens

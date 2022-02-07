@@ -12,7 +12,7 @@ By George, I think we've got it.
 
 Days of debate and deliberation at Independence Hall were often followed by nights of debate and deliberation (and a few libations) at the City Tavern, where our forefathers would gather to exchange revolutionary ideas.
 
-Rich and warming with a deep garnet hue, the molasses-based Tavern Porterâ„¢ reflects Washington's admiration of Philadelphia-style porters and follows a recipe Washington used himself, when brewing beer to satisfy his thirsty field officers.
+Rich and warming with a deep garnet hue, the molasses-based Tavern Porter™ reflects Washington's admiration of Philadelphia-style porters and follows a recipe Washington used himself, when brewing beer to satisfy his thirsty field officers.
 
 Enjoy a taste of history, courtesy of Yards Brewing Company, Philadelphia's premier brewer and bottler.
 

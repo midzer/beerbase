@@ -9,6 +9,6 @@ srm: 0
 upc: 0
 ---
 From the Sierra Nevada Brewing Co. website:
-The long, cold nights of winter are a little brighter with CelebrationÂ® Ale. Wonderfully robust and rich, CelebrationÂ® Ale is dry-hopped for a lively, intense aroma. Brewed especially for the holidays, it is perfect for a festive gathering or for a quiet evening at home. 
+The long, cold nights of winter are a little brighter with Celebration® Ale. Wonderfully robust and rich, Celebration® Ale is dry-hopped for a lively, intense aroma. Brewed especially for the holidays, it is perfect for a festive gathering or for a quiet evening at home. 
 
 

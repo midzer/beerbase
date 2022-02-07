@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Lone Star Light mimics its full-bodied counterpart with an award winning premium light taste. This beer retains the complimentary ratio of barley
+\Lone Star Light mimics its full-bodied counterpart with an award winning premium light taste. This beer retains the complimentary ratio of barley

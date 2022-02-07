@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Our award-winning India Pale Ale  is a hop loverâ€™s dream. We use Galena and Cascade hops in the kettle and dry-hop with more cascade during conditioning. This copper-colored ale has a nice maltiness to balance all the hops.
+Our award-winning India Pale Ale  is a hop lover’s dream. We use Galena and Cascade hops in the kettle and dry-hop with more cascade during conditioning. This copper-colored ale has a nice maltiness to balance all the hops.

@@ -18,7 +18,7 @@ Hops:  Hops extract from Germany and Indian hops palate
 Colour:  Golden yellow  
 Availability:  India  
 Fermentation process: Bottom-fermented  
-Serving temperature:  7 - 9 Â°C  
+Serving temperature:  7 - 9 °C  
 Packaging:  650 ml, 330 ml Indian standard glass bottle ; 500 ml cans and 330 ml cans,( in select markets)  
 
 http://www.sabmiller.in/brands_knock-out.html

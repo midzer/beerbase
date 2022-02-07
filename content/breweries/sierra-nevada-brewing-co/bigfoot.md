@@ -9,6 +9,6 @@ srm: 0
 upc: 0
 ---
 From the Sierra Nevada Brewing Co. website:
-This year marks the 25th release of BigfootÂ®. Our award-winning barleywine boasts a dense, fruity bouquet, an intense flavor palate and a deep reddish-brown color. Its big maltiness is superbly balanced by a wonderfully bittersweet hoppiness. 
+This year marks the 25th release of Bigfoot®. Our award-winning barleywine boasts a dense, fruity bouquet, an intense flavor palate and a deep reddish-brown color. Its big maltiness is superbly balanced by a wonderfully bittersweet hoppiness. 
 
 

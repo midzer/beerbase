@@ -10,4 +10,4 @@ upc: 0
 ---
 Gouden Carolus Hopsinjoor completes the taste pallet of the gamma Carolus-beers.  
 
-Hopsinjoor" is a wordplay to for one thing the several hops which were used
+\Hopsinjoor\" is a wordplay to for one thing the several hops which were used

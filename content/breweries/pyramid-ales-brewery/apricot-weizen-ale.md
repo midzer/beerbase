@@ -19,4 +19,4 @@ Hops: Nugget
 Availability: Year Round
 Best Paired With: Appetizers, salads, and desserts such as pies and pastries.
 
-Best of the Northwest/Pacific in the Fruit Beer" category at the 2000 United States Beer Tasting Championship
+Best of the Northwest/Pacific in the \Fruit Beer\" category at the 2000 United States Beer Tasting Championship

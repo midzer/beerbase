@@ -12,8 +12,8 @@ Description : Dark Ale, strong, spicy, lightly hoppy, with evoluting taste. Natu
 
 Alcohol : 8,5% alc./vol.
 
-Original gravity : 16 Â°Plato
+Original gravity : 16 °Plato
 
 Storage : Store the bottles vertically in a cold place, sheltered from light. The yeast deposit can either be drunk or left according to taste
 
-Serve at : 8 to 12Â°C (botlle)
+Serve at : 8 to 12°C (botlle)

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Our interpretation of a West Coast IPA is golden, medium-bodied ale that is very hop forward.  The use of Cascade, Chinook, Columbus, Centennial and Crystal hops makes this beer a hopheadâ€™s dream.
+Our interpretation of a West Coast IPA is golden, medium-bodied ale that is very hop forward.  The use of Cascade, Chinook, Columbus, Centennial and Crystal hops makes this beer a hophead’s dream.

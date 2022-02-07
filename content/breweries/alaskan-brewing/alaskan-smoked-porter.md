@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Smoked Beer. Known as rauchbier" in Germany
+Smoked Beer. Known as \rauchbier\" in Germany

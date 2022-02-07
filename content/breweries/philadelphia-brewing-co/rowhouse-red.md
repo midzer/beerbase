@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-From our city of neighborhoods we offer you this BiÃ©re de Mars
+From our city of neighborhoods we offer you this \Biére de Mars

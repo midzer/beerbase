@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Maillot Jaune, or Yellow Shirt"
+Maillot Jaune, or \Yellow Shirt\"

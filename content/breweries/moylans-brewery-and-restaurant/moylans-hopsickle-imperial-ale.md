@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-In celebration of the hop,,,,, This is a Hop" tribute
+In celebration of the hop,,,,, This is a \Hop\" tribute

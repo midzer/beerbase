@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A Belgian seasonal" ale brewed during winter for the spring and summer months.  This is a crisp
+A Belgian \seasonal\" ale brewed during winter for the spring and summer months.  This is a crisp

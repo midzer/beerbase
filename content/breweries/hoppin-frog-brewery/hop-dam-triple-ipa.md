@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Some say â€œbigger is better!â€�. At Hoppinâ€™ Frog, we built a massive hop dam to handle the enormous amount of hops added to this colossal American Triple I.P.A. An intense experience of citrus and piney hop character is complimented by layers of rich malt flavor. Behold our new standard for hoppy beers.
+Some say “bigger is better!”. At Hoppin’ Frog, we built a massive hop dam to handle the enormous amount of hops added to this colossal American Triple I.P.A. An intense experience of citrus and piney hop character is complimented by layers of rich malt flavor. Behold our new standard for hoppy beers.

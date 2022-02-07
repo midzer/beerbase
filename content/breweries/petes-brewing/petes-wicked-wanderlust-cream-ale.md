@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Peteâ€™s winter seasonal Wanderlust Cream Ale, is a velvety smooth brew offering endless fascination. Peteâ€™s Wicked Wanderlust Cream Ale is a light amber brew with a rhapsody of Cluster hops and select Munich and wheat malts. The rich, creamy taste invites you on a journey of wonderment and intrigue. Sit back. Enjoy the ride.
+Pete’s winter seasonal Wanderlust Cream Ale, is a velvety smooth brew offering endless fascination. Pete’s Wicked Wanderlust Cream Ale is a light amber brew with a rhapsody of Cluster hops and select Munich and wheat malts. The rich, creamy taste invites you on a journey of wonderment and intrigue. Sit back. Enjoy the ride.

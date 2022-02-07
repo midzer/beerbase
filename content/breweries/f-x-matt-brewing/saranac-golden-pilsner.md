@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Saranac Pilsener is a light bodied American Wheat Beer that is judiciously hopped with Cascade and Tettnang hops. Dry-Hopping" imparts the distinctive hop aroma and finish. Look for a smooth
+Saranac Pilsener is a light bodied American Wheat Beer that is judiciously hopped with Cascade and Tettnang hops. \Dry-Hopping\" imparts the distinctive hop aroma and finish. Look for a smooth

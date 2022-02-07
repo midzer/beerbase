@@ -12,4 +12,4 @@ The Sunray Wheat is a German-style unfiltered wheat beer brewed with a touch of 
 
 Its inviting banana and sweet clove like aroma gives way to a pleasant, clean finish with a hint of tartness.
 
-This beer is available in the Terrapin â€œAll The Hitsâ€� Variety 12-pack as well as in individual 6-packs.
+This beer is available in the Terrapin “All The Hits” Variety 12-pack as well as in individual 6-packs.

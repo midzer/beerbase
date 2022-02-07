@@ -11,9 +11,9 @@ upc: 0
 From the Sierra Nevada Brewing Co. website:
 Our most popular beer, Sierra Nevada Pale Ale, is a delightful interpretation of a classic style. It has a deep amber color and an exceptionally full-bodied, complex character. Generous quantities of premium Cascade hops give the Pale Ale its fragrant bouquet and spicy flavor. 
 
-â€œSierra Nevada Pale Ale is the flagship beer, the one that made Chico famous. It is a flawless beer that opens with bright, perky high notes of maltiness and orange blossom and segues into a delectable hoppiness.â€�
+“Sierra Nevada Pale Ale is the flagship beer, the one that made Chico famous. It is a flawless beer that opens with bright, perky high notes of maltiness and orange blossom and segues into a delectable hoppiness.”
 
-â€“ Elaine Louie, Premier Beerâ€”A Guide to America's Best Bottled Microbrews
+– Elaine Louie, Premier Beer—A Guide to America's Best Bottled Microbrews
  
    
   

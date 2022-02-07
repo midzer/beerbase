@@ -10,4 +10,4 @@ upc: 0
 ---
 This is our perennial summer seasonal beer, first brewed in Summer 1995 when we opened. 
 
-Affectionately called Spunky and Chunky"
+Affectionately called \Spunky and Chunky\"

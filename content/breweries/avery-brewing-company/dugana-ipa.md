@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Lupulin Rapture Incarnate! As fervent Â devotees of hops, we found ourselves on a quest to create a transcendental IPA capable of quenching our voracious lupulin desires. Our mantra became unity of bitterness
+Lupulin Rapture Incarnate! As fervent  devotees of hops, we found ourselves on a quest to create a transcendental IPA capable of quenching our voracious lupulin desires. Our mantra became \unity of bitterness

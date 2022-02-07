@@ -9,4 +9,4 @@ srm: 0
 upc: 0
 ---
 From their website:
-Have you read the description for the regular Crooked Tree yet? Well this beer is almost the same just double. We actually took the Crooked Tree recipe and doubled all of the ingredients except the water
+\Have you read the description for the regular Crooked Tree yet? Well this beer is almost the same just double. We actually took the Crooked Tree recipe and doubled all of the ingredients except the water

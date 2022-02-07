@@ -16,4 +16,4 @@ The sophisticated King Lager packaging reflects the quality of this exceptional,
 
 King Lager is full strength with 5.2% alc/vol, 20 beers to a case and 375ml of classic, crisp, clean beer in every bottle.
 
-Make your move now to King Lager â€“ itâ€™s world class
+Make your move now to King Lager – it’s world class

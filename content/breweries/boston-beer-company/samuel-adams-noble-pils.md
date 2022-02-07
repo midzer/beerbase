@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Samuel Adams Noble Pils is one of the only brews made with all five Noble hops from the worldâ€™s growing regions. its bright flavor and lively, citrus hop character reminds us that the warm days of spring are just a few weeks away.
+Samuel Adams Noble Pils is one of the only brews made with all five Noble hops from the world’s growing regions. its bright flavor and lively, citrus hop character reminds us that the warm days of spring are just a few weeks away.

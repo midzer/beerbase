@@ -8,5 +8,5 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-DOUBLE BLONDE 6Â°
+DOUBLE BLONDE 6°
 Copper-coloured beer with a honey aroma, a full and smooth flavour and a gently evolving aftertaste

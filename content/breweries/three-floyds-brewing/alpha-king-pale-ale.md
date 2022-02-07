@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Big American Pale Ale with citrusy aroma- a hop loverâ€™s cult beer and Three Floydsâ€™ flagship beer Brewed with Cenntennial, Cascade & Warrior Hops
+Big American Pale Ale with citrusy aroma- a hop lover’s cult beer and Three Floyds’ flagship beer Brewed with Cenntennial, Cascade & Warrior Hops

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Gold Coast Blonde is light in malt and hops and of course, golden in color. A great choice if youâ€™re looking for true American beer flavor with a bit more malt than a light beer has to offer.
+Gold Coast Blonde is light in malt and hops and of course, golden in color. A great choice if you’re looking for true American beer flavor with a bit more malt than a light beer has to offer.

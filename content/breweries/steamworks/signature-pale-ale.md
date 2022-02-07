@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The term Pale Ale" dates back to the 1800s when all beer was dark brown in colour. New malting techniques led to the development of pale malt
+The term \Pale Ale\" dates back to the 1800s when all beer was dark brown in colour. New malting techniques led to the development of pale malt

@@ -9,4 +9,4 @@ srm: 0
 upc: 0
 ---
 Our Dundee Scotch Ale begins with a traditional 
-sweetness and finishes with a full, malty flavor. Donâ€™t be fooled by the dark colorâ€”this beer is delicious and surprisingly easy to drink.
+sweetness and finishes with a full, malty flavor. Don’t be fooled by the dark color—this beer is delicious and surprisingly easy to drink.

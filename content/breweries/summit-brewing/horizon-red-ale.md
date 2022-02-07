@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-A richer shade of Red. Summit has artfully crossed the boundaries of traditional IPA and Amber styles to create a brew all our own. Featuring an aromatic blend of Horizon, Amarillo and Cascade hops with nicely balanced malts for a flavor youâ€™ll enjoy to the fullest.
+A richer shade of Red. Summit has artfully crossed the boundaries of traditional IPA and Amber styles to create a brew all our own. Featuring an aromatic blend of Horizon, Amarillo and Cascade hops with nicely balanced malts for a flavor you’ll enjoy to the fullest.

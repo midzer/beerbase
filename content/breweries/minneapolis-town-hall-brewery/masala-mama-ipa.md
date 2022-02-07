@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Our brewers believe an American IPA should be full of American hops. Masala Mama uses three different West Coast varieties, over five hop additions. This copper-colored ale is not strictly about hops; American pale barley and several caramel malts balance the flavor for a green, toasted caramel finish. The British realized an abundance of hops will help preserve beer â€¦ we realized hops can preserve our customers.
+Our brewers believe an American IPA should be full of American hops. Masala Mama uses three different West Coast varieties, over five hop additions. This copper-colored ale is not strictly about hops; American pale barley and several caramel malts balance the flavor for a green, toasted caramel finish. The British realized an abundance of hops will help preserve beer … we realized hops can preserve our customers.

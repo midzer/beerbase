@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Michelob AmerBock is American-style bock beer with a rich
+\Michelob AmerBock is American-style bock beer with a rich

@@ -9,4 +9,4 @@ srm: 0
 upc: 0
 ---
 From Website:
-Maharaja is derived from the sanskrit words mahat, - great" and rajan - "king". Much like its namesake
+Maharaja is derived from the sanskrit words mahat, - \great\" and rajan - \"king\". Much like its namesake

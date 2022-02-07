@@ -10,7 +10,7 @@ upc: 0
 ---
 Yellow Snow IPA was originally introduced for the 2000 Winter Olympics in Salt Lake City.
 
-Yellow Snow is Rogueâ€™s tribute to winter sports everywhereâ€”downhill skiing, snowboarding, cross country, ice hockey, ice fishing, snowmobiling, and even curling. 
+Yellow Snow is Rogue’s tribute to winter sports everywhere—downhill skiing, snowboarding, cross country, ice hockey, ice fishing, snowmobiling, and even curling. 
 
 It will be available November 1st in select states where mountains and snow can be found.
 

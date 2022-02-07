@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Honkerâ€™s Ale combines a spicy hop aroma with a rich malt middle to create a perfectly balanced ale that is immensely drinkable. A smooth, drinkable English Bitter for those looking for more from their beer.
+Honker’s Ale combines a spicy hop aroma with a rich malt middle to create a perfectly balanced ale that is immensely drinkable. A smooth, drinkable English Bitter for those looking for more from their beer.

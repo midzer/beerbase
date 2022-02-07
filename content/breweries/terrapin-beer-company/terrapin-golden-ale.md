@@ -12,4 +12,4 @@ Terrapin Beer Company was started by two guys who love big, bold beers. We are k
 
 We have also been known to take pleasure in hiking, biking, kayaking, and just plain having fun in the great outdoors. When we get hot and sweaty even hopheads like us want nothing more than to enjoy a beer that is crisp and refreshing.
 
-Which is why we created the perfect session beer â€“ the Terrapin Golden Ale.
+Which is why we created the perfect session beer – the Terrapin Golden Ale.

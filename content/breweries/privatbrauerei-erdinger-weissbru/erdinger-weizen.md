@@ -12,4 +12,4 @@ The famous Bavarian specialty
 
 Erdinger Weissbier 'crystal clear' is particularly welcome as a tasty thirst-quencher for hot summer days.
 
-This specialty wheat beer gets its 'crystal clear' appearance from a particularly long filtration process, known in the industry as fine filtration"
+This specialty wheat beer gets its 'crystal clear' appearance from a particularly long filtration process, known in the industry as \fine filtration\"

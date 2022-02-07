@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-O'zapft is!" The cry of happy beer drinkers at the start of the Munich Oktoberfest
+\O'zapft is!\" The cry of happy beer drinkers at the start of the Munich Oktoberfest

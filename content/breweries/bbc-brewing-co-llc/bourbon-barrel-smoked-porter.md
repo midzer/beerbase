@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Think of Guinness but with a smooth bite" to it. This is a wonder beer for those of us who enjoy a porter."
+Think of Guinness but with a \smooth bite\" to it. This is a wonder beer for those of us who enjoy a porter."

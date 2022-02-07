@@ -9,4 +9,4 @@ srm: 0
 upc: 0
 ---
 Grolsch Premium Weizen is the main wheat beer made by Grolsch.
-It is made according to the German Reinheitsgebot (German Beer Purity Law")
+It is made according to the German Reinheitsgebot (\German Beer Purity Law\")

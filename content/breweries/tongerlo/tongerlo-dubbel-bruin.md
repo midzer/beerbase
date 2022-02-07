@@ -8,5 +8,5 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-DOUBLE BROWN 6Â°
+DOUBLE BROWN 6°
 Red brown beer with a smooth gentle aroma, a full flavour and a slightly roasted aftertaste.

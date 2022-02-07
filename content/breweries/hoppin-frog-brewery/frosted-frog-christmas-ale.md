@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-The essence of Christmas is captured in this very bottle you are holding. Perfectly blended spices compliment Frosted Frogâ€™s rich malt flavors, creating the ultimate Christmas experience. Celebrate the holidays as you savor this very special seasonal offering.
+The essence of Christmas is captured in this very bottle you are holding. Perfectly blended spices compliment Frosted Frog’s rich malt flavors, creating the ultimate Christmas experience. Celebrate the holidays as you savor this very special seasonal offering.

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Standing alone, distant from the Three Sisters mountains nestled to the north, Bachelor Butte was originally called Brother Jonathan" and then simply "The Bachelor" before becoming widely known today as Mt. Bachelor."
+Standing alone, distant from the Three Sisters mountains nestled to the north, Bachelor Butte was originally called \Brother Jonathan\" and then simply \"The Bachelor\" before becoming widely known today as Mt. Bachelor."

@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Our lightest beer â€“ pale blonde in color with a crisp, softly sweet malt flavor, smooth finish and very subtle bitterness. Went to the final judging table at the GABF alongwith the Mega Breweries last year!
+Our lightest beer – pale blonde in color with a crisp, softly sweet malt flavor, smooth finish and very subtle bitterness. Went to the final judging table at the GABF alongwith the Mega Breweries last year!

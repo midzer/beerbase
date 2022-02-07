@@ -8,4 +8,4 @@ ibu: 0
 srm: 0
 upc: 0
 ---
-Dry-hopping provides a distinctive and floral hop aroma, while the lively and hoppy body is subtly balanced with delicious malt notes. Hatterâ€™s hop character makes it a great fit for spicy dishes, bitter greens and beef.
+Dry-hopping provides a distinctive and floral hop aroma, while the lively and hoppy body is subtly balanced with delicious malt notes. Hatter’s hop character makes it a great fit for spicy dishes, bitter greens and beef.

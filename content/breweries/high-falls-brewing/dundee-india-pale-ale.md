@@ -10,8 +10,8 @@ upc: 0
 ---
 It takes a bit of seasoning to understand that bitter can be a good thing. 
 
-When youâ€™re a child, you want everything to be sweet. When youâ€™re a teenager, you want everything to be sweeeeet. But when you get a bit wiser and acquire some taste, you realize that bitter is an excellent alternative. Itâ€™s a sign of complexity. Itâ€™s a sign of maturity. Itâ€™s a sign of the times. Face it, modern life demands a little bitterness every once in a while. 
+When you’re a child, you want everything to be sweet. When you’re a teenager, you want everything to be sweeeeet. But when you get a bit wiser and acquire some taste, you realize that bitter is an excellent alternative. It’s a sign of complexity. It’s a sign of maturity. It’s a sign of the times. Face it, modern life demands a little bitterness every once in a while. 
 
-When you are in the mood for something bitter, Dundee IPA is hop bitterness at its finest. As the youngsters would say, thatâ€™s sweet.
+When you are in the mood for something bitter, Dundee IPA is hop bitterness at its finest. As the youngsters would say, that’s sweet.
 
 An aggressively hopped IPA brewed with Amarillo and Simcoe hops. Blended Crystal malts balance the flavors with a distinctive spicy aroma and a long, crisp finish.
